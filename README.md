@@ -21,3 +21,6 @@ data/        Data and ICA activity
 notebooks/   Jupyter notebooks
 src/         Analysis scripts
 figures/     Visualizations
+
+## Dataset Source
+Pohlmann, A., Reinoso-Carvalho, F., & Rodríguez, B. (2026). EEG and hedonic responses to sonic-seasoning soundscapes (Version v1.0.0) [Data set]. NEMAR. https://doi.org/10.82901/nemar.on008062
