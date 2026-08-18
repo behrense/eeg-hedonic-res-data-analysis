@@ -1,7 +1,7 @@
 # eeg-hedonic-res-data-analysis
 
 ## Overview
-This project includes EEG signal-processing techniques and basic neural data analysis workflows, such as preprocessing, filtering, and visualization.
+This project includes EEG signal-processing techniques and basic neural data analysis workflows, such as preprocessing, filtering, and visualization, as well as reproducing the pipeline in MNE-Python to eventually automate everything.
 
 ## Features
 - EEG data preprocessing
